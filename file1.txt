@@ -1,0 +1,6 @@
+HI 
+i changed my allegiances
+Hello 
+What's ur name
+I'm Karthik
+yo this is supposed to be concatenated.

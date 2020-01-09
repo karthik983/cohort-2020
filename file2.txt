@@ -1,0 +1,6 @@
+total 12
+drwxr-xr-x  2 karthik karthik 4096 Jan  8 20:47 .
+drwxr-xr-x 26 karthik karthik 4096 Jan  8 18:18 ..
+-rw-r--r--  1 karthik karthik   63 Jan  8 20:42 file1.txt
+-rw-r--r--  1 karthik karthik    0 Jan  8 20:47 file2.txt
+

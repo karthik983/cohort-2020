@@ -1,0 +1,3 @@
+Hi there
+doing good
+i want to convert this into a gzip file using tar format.
